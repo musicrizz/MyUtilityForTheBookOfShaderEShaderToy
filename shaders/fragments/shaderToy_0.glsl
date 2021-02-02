@@ -1,5 +1,8 @@
 #version 330 core
 
+// http://www.pouet.net/prod.php?which=57245
+// If you intend to reuse this shader, please add credits to 'Danilo Guanabara'
+
 layout (std140) uniform CommonUniform
 {     		        //base  //Offset          
 	ivec2 viewport; //  8      0   

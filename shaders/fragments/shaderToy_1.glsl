@@ -1,5 +1,14 @@
 #version 330 core
 
+/*
+ * I believe that the code is clear enough, so I will save comments :)
+ * But if you need help to understand anything, just tell me.
+ * This shader is free to use as long it is distributed with credits.
+ * And, yeah, you can change it.
+ *
+ * Author: Danguafer/Silexars
+ */
+
 layout (std140) uniform CommonUniform
 {     		        //base  //Offset          
 	ivec2 viewport; //  8      0   
